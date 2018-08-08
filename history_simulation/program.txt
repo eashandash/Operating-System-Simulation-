@@ -1,0 +1,9 @@
+ls
+clear
+ls
+ls
+clear
+l
+ls
+ls
+ps
